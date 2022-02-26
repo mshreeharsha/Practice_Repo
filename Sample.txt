@@ -1,2 +1,3 @@
 This is sample text.
 adding more text.
+adding change 3
