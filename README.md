@@ -8,6 +8,3 @@
 * [Push](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository) the changes
 * Make a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
   
-You PR's will be reviewed by our team and if they match the criteria then we will accept your PR, and you would become git ready.
-
-explaining pull command
