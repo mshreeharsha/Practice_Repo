@@ -11,3 +11,4 @@
 You PR's will be reviewed by our team and if they match the criteria then we will accept your PR, and you would become git ready.
 
 explaining pull command
+explaining fetch command
