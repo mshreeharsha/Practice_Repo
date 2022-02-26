@@ -1,0 +1,9 @@
+Assignment:
+1.Fork this Repository
+2.Clone this project from the forked repository
+3.Create a new branch
+4.Create a folder in that branch
+5.Name of the branch and folder should be in the format - Name_RollNo (RAM_201CS123)
+6.Add any piece of code in that folder
+7.Push the changes
+8.Make a PR
