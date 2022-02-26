@@ -12,3 +12,4 @@ You PR's will be reviewed by our team and if they match the criteria then we wil
 
 explaining pull command
 explaining fetch command
+remote change
